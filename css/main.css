@@ -1,0 +1,13 @@
+@font-face {
+    font-family: 'Geometria';
+    font-style: normal;
+    font-weight: normal;
+    src: local('Geometria'), url('Geometria.woff') format('woff');
+    }
+
+    
+
+    .map {
+        width: 400px;
+        height: 300px;
+    }
